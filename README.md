@@ -4,21 +4,28 @@
 
 # `< Vansh Sharma />`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=680&lines=DSA+%7C+Full+Stack+%7C+AI%2FML;C%2B%2B+%7C+Python+%7C+JavaScript;Building+things+that+work." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;AI%2FML+Engineer;Full+Stack+Developer;Problem+Solver" />
 
 </div>
 
 ---
 
-## About
+<div align="center">
 
-Currently heads-down in DSA, building full-stack products, and exploring AI/ML systems. Targeting a software engineering internship at a top MNC.
+**Software Developer | AI/ML | Problem Solver**
 
-When I'm not coding — cars, F1, cosmology, and philosophy.
+Focused on Data Structures & Algorithms, full-stack development, and intelligent systems.
+Driven by curiosity, continuous learning, and building technology that creates meaningful impact.
+
+*When I'm not coding — cars, F1, cosmology, and philosophy.*
+
+</div>
 
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -48,21 +55,33 @@ When I'm not coding — cars, F1, cosmology, and philosophy.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
 
 ## Projects
 
-**Stock Price Predictor**
-LSTM-based stock forecasting pipeline combining technical indicators with sentiment analysis. Predicts short-term price movement using real market data.
-`Python` `TensorFlow` `Pandas` `NLP`
+### 📈 Stock Price Predictor
+> LSTM-based stock forecasting system that combines **technical indicators** (RSI, MACD, moving averages) with **sentiment analysis** to predict short-term price movement using real market data.
 
-**Real Estate Platform**
-Full-stack real estate web app with property listings, search/filter, and a clean responsive UI.
+**Highlights:** Multi-feature time-series modeling · Sentiment pipeline via NLP · Visualized predictions with confidence intervals
+
+`Python` `TensorFlow` `Pandas` `Scikit-Learn` `NLP`
+
+---
+
+### 🏡 Real Estate Platform
+> Modern full-stack real estate web application with dynamic property listings, advanced search & filter, and a clean responsive UI built for a seamless user experience.
+
+**Highlights:** Component-driven architecture · REST API backend · Mobile-first responsive design
+
 `React` `Node.js` `TailwindCSS` `Express`
 
 ---
 
 ## Connect
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/vansh-sharma-b76896333">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -78,3 +97,5 @@ Full-stack real estate web app with property listings, search/filter, and a clea
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=vanshsharmaji28&label=Profile+Views&color=00d9ff&style=flat-square" />
+
+</div>
