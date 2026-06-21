@@ -1,118 +1,98 @@
-<h1 align="center">
-  Vansh Sharma
-</h1>
+<div align="center">
 
-<h3 align="center">
-  ECE Undergraduate @ LNMIIT Jaipur
-</h3>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  > INITIALIZING PROFILE...                                   ║
+║  > LOADING: Vansh Sharma | ECE @ LNMIIT Jaipur              ║
+║  > STATUS: Building, Learning, Shipping                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  Data Structures & Algorithms • Artificial Intelligence & Machine Learning • Full Stack Development
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=680&lines=DSA+%7C+Full+Stack+%7C+AI%2FML;C%2B%2B+%7C+Python+%7C+JavaScript;Turning+ideas+into+working+software." />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;AI%2FML+Engineer;Full+Stack+Developer;Building+Projects+and+Solving+Problems" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+## About
 
-<h3 align="center">Languages</h3>
+ECE undergrad at LNMIIT Jaipur — currently heads-down in DSA, building full-stack products, and exploring AI/ML systems. Targeting a software engineering internship at a top MNC by 3rd year.
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</p>
-
-<h3 align="center">Development</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-</p>
-
-<h3 align="center">AI / ML</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-</p>
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</p>
+When I'm not coding — cars, F1, cosmology, and philosophy.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## Tech Stack
 
-### 📈 Stock Price Predictor
+**Languages**
 
-LSTM-based stock forecasting system using technical indicators and sentiment analysis.
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🏡 Real Estate Platform
+**Frontend**
 
-Modern React-based real estate web application.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**AI / ML**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## Projects
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshsharmaji28&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsharmaji28&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Stock Price Predictor**
+LSTM-based stock forecasting pipeline combining technical indicators with sentiment analysis. Predicts short-term price movement using real market data.
+`Python` `TensorFlow` `Pandas` `NLP`
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsharmaji28&theme=tokyonight&hide_border=true" />
-</p>
+**Real Estate Platform**
+Full-stack real estate web app with property listings, search/filter, and a clean responsive UI.
+`React` `Node.js` `TailwindCSS` `Express`
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## GitHub Stats
 
-<p align="center">
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshsharmaji28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=e6edf3" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsharmaji28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=e6edf3" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsharmaji28&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f0c040&currStreakLabel=00d9ff" />
+</div>
+
+---
+
+## Connect
 
 <a href="https://www.linkedin.com/in/vansh-sharma-b76896333">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://x.com/VS2ugo">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:vansh28sharma2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=vanshsharmaji28&label=Profile+Views&color=00d9ff&style=flat-square" />
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanshsharmaji28&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
