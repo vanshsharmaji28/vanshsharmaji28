@@ -1,14 +1,10 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  > INITIALIZING PROFILE...                                   ║
-║  > LOADING: Vansh Sharma | ECE @ LNMIIT Jaipur              ║
-║  > STATUS: Building, Learning, Shipping                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=header&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=680&lines=DSA+%7C+Full+Stack+%7C+AI%2FML;C%2B%2B+%7C+Python+%7C+JavaScript;Turning+ideas+into+working+software." />
+# `< Vansh Sharma />`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=680&lines=DSA+%7C+Full+Stack+%7C+AI%2FML;C%2B%2B+%7C+Python+%7C+JavaScript;Building+things+that+work." />
 
 </div>
 
@@ -16,7 +12,7 @@
 
 ## About
 
-ECE undergrad at LNMIIT Jaipur — currently heads-down in DSA, building full-stack products, and exploring AI/ML systems. Targeting a software engineering internship at a top MNC by 3rd year.
+Currently heads-down in DSA, building full-stack products, and exploring AI/ML systems. Targeting a software engineering internship at a top MNC.
 
 When I'm not coding — cars, F1, cosmology, and philosophy.
 
@@ -66,19 +62,6 @@ Full-stack real estate web app with property listings, search/filter, and a clea
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshsharmaji28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=e6edf3" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshsharmaji28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=e6edf3" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshsharmaji28&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f0c040&currStreakLabel=00d9ff" />
-</div>
-
----
-
 ## Connect
 
 <a href="https://www.linkedin.com/in/vansh-sharma-b76896333">
@@ -95,4 +78,3 @@ Full-stack real estate web app with property listings, search/filter, and a clea
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=vanshsharmaji28&label=Profile+Views&color=00d9ff&style=flat-square" />
-
