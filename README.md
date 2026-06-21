@@ -1,7 +1,7 @@
 <h1 align="center">Vansh Sharma</h1>
 
 <h3 align="center">
-ECE Undergraduate @ LNMIIT Jaipur
+
 </h3>
 
 <p align="center">
